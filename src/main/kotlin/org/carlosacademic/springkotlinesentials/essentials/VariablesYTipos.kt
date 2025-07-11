@@ -1,4 +1,4 @@
-package org.carlosacademic.springkotlinesentials.hello
+package org.carlosacademic.springkotlinesentials.essentials
 
 const val NUMERO_DE_PAGINAS = 10
 

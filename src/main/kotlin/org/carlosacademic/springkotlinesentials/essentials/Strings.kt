@@ -1,4 +1,4 @@
-package org.carlosacademic.springkotlinesentials.hello
+package org.carlosacademic.springkotlinesentials.essentials
 
 fun main() {
     var nombre = "Pepe"
