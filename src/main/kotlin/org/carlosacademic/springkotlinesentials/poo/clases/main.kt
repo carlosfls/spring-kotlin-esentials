@@ -15,6 +15,7 @@ fun main() {
 
      */
 
+    /*
     var miDireccion: Direccion = Direccion("Joao Luiza","88034567","SC")
     println(miDireccion.toString())
 
@@ -23,4 +24,12 @@ fun main() {
 
     var miDireccion3 = miDireccion2.copy("Mariano Ventura")
     println(miDireccion3.toString())
+     */
+
+    val lunes = DAYS.LUNES;
+    println(lunes)
+
+    for(day in DAYS.entries) {
+        println(day)
+    }
 }
